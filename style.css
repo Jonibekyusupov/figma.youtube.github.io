@@ -572,6 +572,9 @@ body{
 	.section__courses{
 		margin-left: 50px;
 	}
+	.support__img img{
+		display:none;
+	}
 }
 
 @media(max-width:1350px){
